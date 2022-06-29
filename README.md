@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=350&section=header&text=%20WELCOME!%20&animation=fadeIn&desc=This%20is%20Jisu's%20github)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=400&section=header&text=%20WELCOME!%20&animation=fadeIn&desc=This%20is%20Jisu's%20github)
 
 <br>
 
@@ -32,7 +32,8 @@
   <strong>About Me</strong>
   <br>
   <br>
-  <a href="https://www.instagram.com/hongvely1023/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><a href="https://www.facebook.com/profile.php?id=100004826685868"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hongvely1023/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100004826685868"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <br>
   <br>
   <br>
