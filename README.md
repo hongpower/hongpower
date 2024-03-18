@@ -1,12 +1,11 @@
 ### Skills
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 
-### Education
-- 네이버 커넥트 재단 부스트캠프 웹・모바일 7기 챌린지 및 멤버십 과정 수료
-- 42Seoul
-
+### Experience
+- 카카오 iOS 인턴 (2024.01 ~ 2024.02)
+- 네이버 커넥트 재단 부스트캠프 웹・모바일 7기 (iOS) 챌린지 및 멤버십 과정 수료 (2022.07 ~ 2022.12)
+- 42Seoul 수료 (2022.07 ~ 2023.04)
 
 ### Contact
 <a href="mailto:jisuhongeism@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
