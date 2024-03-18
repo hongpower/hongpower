@@ -4,8 +4,8 @@
 
 ### Experience
 - 카카오 iOS 인턴 (2024.01 ~ 2024.02)
-- 네이버 커넥트 재단 부스트캠프 웹・모바일 7기 (iOS) 챌린지 및 멤버십 과정 수료 (2022.07 ~ 2022.12)
-- 42Seoul 수료 (2022.07 ~ 2023.04)
+- 네이버 부스트캠프 웹・모바일 7기 iOS (2022.07 ~ 2022.12)
+- 42Seoul (2022.07 ~ 2023.04)
 
 ### Contact
 <a href="mailto:jisuhongeism@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
